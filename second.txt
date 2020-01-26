@@ -3,4 +3,3 @@
 基本的なワークフローを学習
 ・git add
 ・git commit
-・git rm
