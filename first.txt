@@ -6,3 +6,4 @@
 ・git rm
 ・git status
 ・git diff
+・git diff 復習20200201
